@@ -3,14 +3,11 @@
 ## DEMO:
 ![alt text](https://firebasestorage.googleapis.com/v0/b/test001-lizhang.appspot.com/o/demos%2F1543270123335.jpg?alt=media&token=17f42d03-9035-44fd-9e19-83dc2364af4b)
 
-First download this project to your computer.
-
 
 ## Download Instruction
 
 
 Run `git clone https://github.com/lizishanghai/todoapp-angular.git`
-
 
 
 ## Setup Project
